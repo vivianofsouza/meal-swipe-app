@@ -1,0 +1,24 @@
+[
+  {
+    "firstName": "Claudia",
+    "lastName": "Camboya",
+    "username": "ccamboya",
+    "password": "Password123",
+    "id": "9f9a9255-01d1-42cd-aa78-292640a91544",
+    "planType": "14",
+    "mealSwipes": 14,
+    "mealPlanDollars": 180.0,
+    "carolinaCash": 10.0
+  },
+  {
+    "firstName": "Roxana",
+    "lastName": "Durand",
+    "username": "rdurand",
+    "password": "Password123",
+    "id": "c304b61d-74b3-470c-9fa0-466b4a4d3576",
+    "planType": "14",
+    "mealSwipes": 14,
+    "mealPlanDollars": 180.0,
+    "carolinaCash": 10.0
+  }
+]
